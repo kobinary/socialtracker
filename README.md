@@ -1,2 +1,2 @@
-# socialtracker
-An app to track your social media status. Having an easy, simpler and readable dashboard with the essential data.
+# Social Tracker
+A simple, clean and neat app to track your social media status. Having an easy and readable dashboard with the essential data you want to know.
